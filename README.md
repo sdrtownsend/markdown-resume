@@ -36,6 +36,13 @@ To use this template, you will need the following:
 1. In the terminal, type ``` git push https://github.com/<YOUR-USERNAME>/markdown-resume/ master ```
 2. Change ``` <YOUR-USERNAME> ``` to your github username and press *enter/return*
 3. Enter your github password and press *enter/return*
-4. In your web browser, return to your repository at ``` https://github.com/*<YOUR-USERNAME>*/my/ ```
-5. Verify that your resume.md, resume.html, and style.css files exist, then click on the *settings button*
-6. Scroll down to the section called ``` Github Pages ```
+
+##### Enable Github Pages #####
+1. In your web browser, return to your repository at ``` https://github.com/*<YOUR-USERNAME>*/my/ ```
+2. Verify that your resume.md, resume.html, and style.css files exist, then click on the *settings button*
+3. Scroll down to the section called ``` Github Pages ```
+4. Click the dropdown for ``` Source ``` and click on *Master*
+5. Click *Save*
+6. In your web browser, type in ``` https://<YOUR-USERNAME>.github.io/my/resume.html ```
+7. Replace ``` <YOUR-USERNAME> ``` with your github username and press *enter/return*
+8. Enjoy your new resume!
