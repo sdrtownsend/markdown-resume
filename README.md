@@ -24,7 +24,7 @@ To use this template, you will need the following:
 ##### Parse into HTML #####
 1. In the terminal, type ``` pandoc resume.md -o resume.html --css=style.css -s ``` and press *enter/return*
 2. Open the ``` resume.html ``` file in the browser to make sure it worked
-3. In the terminal, type ``` git add resume.md -o resume.html ``` and press *enter/return*
+3. In the terminal, type ``` git add resume.md resume.html ``` and press *enter/return*
 4. In the terminal, type ``` git commit -m 'Updated resume.md and resume.html' ``` and press *enter/return*
 
 ##### Create Your Repository #####
@@ -33,8 +33,9 @@ To use this template, you will need the following:
 3. In the ``` repository name ``` box, type *my* and click *create repository*
 
 ##### Upload Your Resume #####
-1. In the terminal, type ``` git push https://github.com/<YOUR-USERNAME>/markdown-resume/ master ```
+1. In the terminal, type ``` git push https://github.com/<YOUR-USERNAME>/my/ master ```
 2. Change ``` <YOUR-USERNAME> ``` to your github username and press *enter/return*
+4. Enter your username and press *enter/return*
 3. Enter your github password and press *enter/return*
 
 ##### Enable Github Pages #####
