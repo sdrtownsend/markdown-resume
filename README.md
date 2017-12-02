@@ -38,7 +38,7 @@ To use this template, you will need the following:
 3. Enter your github password and press *enter/return*
 
 ##### Enable Github Pages #####
-1. In your web browser, return to your repository at ``` https://github.com/*<YOUR-USERNAME>*/my/ ```
+1. In your web browser, return to your repository at ``` https://github.com/<YOUR-USERNAME>/my/ ```
 2. Verify that your resume.md, resume.html, and style.css files exist, then click on the *settings button*
 3. Scroll down to the section called ``` Github Pages ```
 4. Click the dropdown for ``` Source ``` and click on *Master*
